@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiaojuan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : ""
+  location         : "Beijing, China"
+  employer         : "Beijing University of Posts and Telecommunications"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wj2718@bupt.edu.cn" 
 
   # Academic websites
   academia         : # URL
