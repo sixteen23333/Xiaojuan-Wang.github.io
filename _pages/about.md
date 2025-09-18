@@ -9,13 +9,13 @@ redirect_from:
 
 
 School of Cyber Security, Beijing University of Posts and Telecommunications
------
+---
 State Key Laboratory of Network and Switching Technology, led by Academician Guo Shize
------
+---
 No. 10 Xitucheng Road, Haidian District, Beijing, P.R.China, 100876
------
+---
 Tel: +86-18910263101               Email: wj2718@bupt.edu.cn 
------
+---
 
 EDUCATION 
 ======
